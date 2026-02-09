@@ -7,6 +7,8 @@ Curated Assignments and labs from all courses in AI Medicine Specialization (200
   * Labs:
   * Assignments:   
 * Week 2
+  * Labs:
+  * Assignments:   
 * Week 3
 
 ### Course 2: AI for Medical Prognosis
