@@ -4,6 +4,8 @@ Curated Assignments and labs from all courses in AI Medicine Specialization (200
 ### Course 1: AI for Medical Diagnosis
 
 * Week 1
+  * Labs:
+  * Assignments:   
 * Week 2
 * Week 3
 
