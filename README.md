@@ -6,7 +6,12 @@ Curated Assignments and labs from all courses in AI Medicine Specialization (200
 
 * Week 1 - Disease detection with computer vision
   * Labs:
-  * Assignments:   
+    * [C1_W1_Lab01 - Data Preparation and image processing](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C1.%20AI%20for%20Medical%20Diagnosis/Week%201/C1_W1_Assignment/C1_W1_Assignment.ipynb)
+    * [C1_W1_Lab02 - Counting labels and weighting loss function](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C1.%20AI%20for%20Medical%20Diagnosis/Week%201/C1_W1_Lab2/C1_W1_Lab_2_counting_labels_and_weighted_loss_function.ipynb)
+    * [C1_W1_Lab03 - Densenet ](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C1.%20AI%20for%20Medical%20Diagnosis/Week%201/C1_W1_Lab3/C1_W1_Lab_3_densenet.ipynb)
+    * [C1_W1_Lab04 - Patient overlap and data leakage](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C1.%20AI%20for%20Medical%20Diagnosis/Week%201/C1_W1_Lab4/C1_W1_Lab_4_patient_overlap_and_data_leakage.ipynb) 
+  * Assignments:
+    * [C1_W1_Assignment - Chest X-Ray Medical Diagnosis with Deep Learning ](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C1.%20AI%20for%20Medical%20Diagnosis/Week%201/C1_W1_Assignment/C1_W1_Assignment.ipynb)
 * Week 2 - Evaluating models
   * Labs:
   * Assignments:   
