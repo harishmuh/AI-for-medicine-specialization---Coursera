@@ -1,7 +1,7 @@
 # AI-for-medicine-specialization Coursera
 Curated Assignments and labs from all courses in AI Medicine Specialization (2006 ver) offered by deeplearning.ai in Coursera
 
-### Course 1: AI for Medical Diagnosis
+### [Course 1: AI for Medical Diagnosis](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/tree/main/C1.%20AI%20for%20Medical%20Diagnosis)
 > How can AI be applied to medical imaging to diagnose diseases? In this first course, you’ll learn about the nuances of working with both 2D and 3D medical image data for multi-class classification and image segmentation. You’ll then apply what you’ve learned to classify diseases in X-Ray images and segment tumors in 3D MRI brain images. Finally, you’ll learn how to properly evaluate the performance of your models.
 
 * **Week 1 - Disease detection with computer vision**
@@ -25,7 +25,7 @@ Curated Assignments and labs from all courses in AI Medicine Specialization (200
   * Assignment:  
     * [C1_W3_Assignment - Brain Tumor Auto-Segmentation for MRI](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C1.%20AI%20for%20Medical%20Diagnosis/Week%203/C1_W3_Assignment/C1_W3_Assignment.ipynb)
 
-### Course 2: AI for Medical Prognosis
+### [Course 2: AI for Medical Prognosis](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/tree/main/C2.%20AI%20for%20Medical%20Prognosis)
 > Machine learning is a powerful tool for prognosis, a branch of medicine that specializes in predicting the future health of patients. First, you’ll walk through multiple examples of prognostic tasks. You’ll then use decision trees to model non-linear relationships, which are commonly observed in medical data, and apply them to predicting mortality rates more accurately. Finally, you’ll learn how to handle missing data, a key real-world challenge.
 
 * **Week 1 - Linear prognostic models**
@@ -57,7 +57,7 @@ Curated Assignments and labs from all courses in AI Medicine Specialization (200
   * Assignment
      * [C2_W4_Assignment - Cox Proportional Hazards and Random Survival Forests](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C2.%20AI%20for%20Medical%20Prognosis/Week%204/C2_W4_Assignment/W4A1/C2_W4_Assignment.ipynb) 
 
-### Course 3: AI for Medical Treatment
+### [Course 3: AI for Medical Treatment](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/tree/main/C3.%20AI%20for%20Medical%20Treatment)
 > Medical treatment may impact patients differently based on their existing health conditions. In this final course, you’ll estimate treatment effects using data from randomized control trials and apply tree-based models. In the second week, you’ll apply machine learning interpretation methods to explain the decision-making of complex machine learning models. In the final week of this course, you’ll use natural language entity extraction and question-answering methods to automate the task of labeling medical datasets.
 
 **To be continued**
