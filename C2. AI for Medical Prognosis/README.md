@@ -1,3 +1,5 @@
+![image](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/Resources/images/AI%20for%20medical%20prognosis.PNG?raw=true)
+
 ### [Course 2: AI for Medical Prognosis](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/tree/main/C2.%20AI%20for%20Medical%20Prognosis)
 > Machine learning is a powerful tool for prognosis, a branch of medicine that specializes in predicting the future health of patients. First, you’ll walk through multiple examples of prognostic tasks. You’ll then use decision trees to model non-linear relationships, which are commonly observed in medical data, and apply them to predicting mortality rates more accurately. Finally, you’ll learn how to handle missing data, a key real-world challenge.
 
