@@ -1,4 +1,5 @@
-# AI-for-medicine-specialization Coursera
+![image](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/Resources/images/AI%20for%20medicine%20specialization.PNG?raw=true)
+
 Curated Assignments and labs from all courses in AI Medicine Specialization (2006 ver) offered by deeplearning.ai in Coursera
 
 ### [Course 1: AI for Medical Diagnosis](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/tree/main/C1.%20AI%20for%20Medical%20Diagnosis)
