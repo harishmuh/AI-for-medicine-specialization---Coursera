@@ -1,6 +1,6 @@
 ![image](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/Resources/images/AI%20for%20medicine%20specialization.PNG?raw=true)
 
-Curated Assignments and labs from all courses in AI Medicine Specialization (2006 ver) offered by deeplearning.ai in Coursera
+Curated Assignments and labs from all courses in AI Medicine Specialization (2026 ver) offered by deeplearning.ai in Coursera
 
 ### [Course 1: AI for Medical Diagnosis](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/tree/main/C1.%20AI%20for%20Medical%20Diagnosis)
 > How can AI be applied to medical imaging to diagnose diseases? In this first course, you’ll learn about the nuances of working with both 2D and 3D medical image data for multi-class classification and image segmentation. You’ll then apply what you’ve learned to classify diseases in X-Ray images and segment tumors in 3D MRI brain images. Finally, you’ll learn how to properly evaluate the performance of your models.
