@@ -90,4 +90,6 @@ Curated Assignments and labs from all courses in AI Medicine Specialization (202
 
 I know some people are struggling to finish the course (including myself) as it takes time to understand new concepts, build intuition, and debug the programming assignment. The uploaded files here are for reference. They are meant to help you only if you are stuck.
 
-If you find this repository helpful, please give a star. Thank you ^_^
+If you find this repository helpful, please give a star ⭐ or fork the repository. 
+
+Thank you and Happy learning! 😊
