@@ -86,7 +86,6 @@ Curated Assignments and labs from all courses in AI Medicine Specialization (202
     * [C3_W3_Assignment - ML interpretation](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C3.%20AI%20for%20Medical%20Treatment/Week%202/C3_W2_Assignment01/W2A1/C3_W2_Assignment.ipynb)
 
 **Disclaimer**
----
 
 I know some people are struggling to finish the course (including myself) as it takes time to understand new concepts, build intuition, and debug the programming assignment. The uploaded files here are for reference. They are meant to help you only if you are stuck.
 
