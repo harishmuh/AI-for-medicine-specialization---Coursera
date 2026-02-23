@@ -72,7 +72,7 @@ Curated Assignments and labs from all courses in AI Medicine Specialization (202
 * **Week 2 - Medical Question Answering**
   * Labs:
     * [C3_W2_Lab01 - Cleaning text](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C3.%20AI%20for%20Medical%20Treatment/Week%202/C3_W2_Lab01/C3_W2_Lab_1_cleaning_text.ipynb)
-    * [C3_W2_Lab02 - Bioc and negbio](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C3.%20AI%20for%20Medical%20Treatment/Week%202/C3_W2_Lab02/C3_W2_Lab_2_bioc_and_negbio.ipynb)
+    * [C3_W2_Lab02 - Bioc and NegBio Library](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C3.%20AI%20for%20Medical%20Treatment/Week%202/C3_W2_Lab02/C3_W2_Lab_2_bioc_and_negbio.ipynb)
     * [C3_W2_Lab03 - Preparation input for text classification](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C3.%20AI%20for%20Medical%20Treatment/Week%202/C3_W2_Lab03/C3_W2_Lab_3_prep_input_for_text_classification.ipynb)
   * Assignment:  
     * [C3_W2_Assignment - Natural language entity extraction](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C3.%20AI%20for%20Medical%20Treatment/Week%202/C3_W2_Assignment01/W2A1/C3_W2_Assignment.ipynb)
