@@ -17,7 +17,7 @@ Curated Assignments and labs from all courses in AI Medicine Specialization (202
   * Labs:
     * [C1_W2_Lab01 - ROC curve threshold](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C1.%20AI%20for%20Medical%20Diagnosis/Week%202/C1_W2_Lab1/C1_W2_Lab_1_roc_curve_and_threshold.ipynb) 
   * Assignments:
-    * [C1_W2_Assignment - Evaluation of Diagnostic Models](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C1.%20AI%20for%20Medical%20Diagnosis/Week%202/C1_W2_Lab1/C1_W2_Lab_1_roc_curve_and_threshold.ipynb)   
+    * [C1_W2_Assignment - Evaluation of Diagnostic Models](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C1.%20AI%20for%20Medical%20Diagnosis/Week%202/W2A1/C1_W2_Assignment.ipynb)   
 * **Week 3 - Image segmentation on MRI images**
   * Labs:
     * [C1_W3_Lab01 - Explore MRI data and Labels](https://github.com/harishmuh/AI-for-medicine-specialization---Coursera/blob/main/C1.%20AI%20for%20Medical%20Diagnosis/Week%203/C1_W3_Lab01/C1_W3_Lab_1_explore_mri_data_and_labels.ipynb)
